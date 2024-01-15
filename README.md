@@ -15,23 +15,15 @@ I'm passionate about using software engineering as a tool to solve problems expe
 
 <h3>Languages</h3>
 
+
 <div>
-  <div class = "Python">
-    <img src = "/Images/python_icon.png" title = "Python" alt = "Python" style = "width:100%">
-  </div>
-  <div class = "HTML">
-    <img src = "/Images/html_icon.png" title = "HTML" alt = "HTML" style = "width:100%">
-  </div>
-  <div class = "Java">
-    <img src = "/Images/java_icon.png" title = "Java" alt = "Java" style = "width:100%">
-  </div>
-  <div class = "Arduino">
-    <img src = "/Images/arduino_icon.png" title = "Arduino" alt = "Java" style = "width:100%">
-  </div>
-  <div class = "React">
-    <img src = "/Images/react_icon.png" title = "React" alt = "Java" style = "width:100%">
-  </div>
+  <img src = "/Images/python_icon.png" title = "Python" alt = "Python" style = "float:left; width:18%">
+  <img src = "/Images/html_icon.png" title = "HTML" alt = "HTML" style = "width:18%">
+  <img src = "/Images/java_icon.png" title = "Java" alt = "Java" style = "width:18%">
+  <img src = "/Images/arduino_icon.png" title = "Arduino" alt = "Java" style = "width:18%">
+  <img src = "/Images/react_icon.png" title = "React" alt = "Java" style = "width:18%">
 </div>
+
 
 
 <!--
