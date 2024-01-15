@@ -1,3 +1,26 @@
 .python{
-    float : left
+    float : left;
+    width : 18%;
+    padding : 5px
+}
+.html{
+    float : left;
+    width : 18%;
+    padding : 5px
+}
+.java{
+    float : left;
+    width : 18%;
+    padding : 5px
+}
+.arduino{
+    float : left;
+    width : 18%;
+    padding : 5px
+}
+.react{
+    float : left;
+    width : 18%;
+    padding : 5px
+
 }
