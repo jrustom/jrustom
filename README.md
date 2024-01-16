@@ -13,15 +13,17 @@ I'm passionate about using software engineering as a tool to solve problems expe
   <li></li>
 </ul>
 
+
 <h3>Languages</h3>
 
-
-
+<div class = container>
 <img src = "/Images/python_icon.png" title = "Python" alt = "Python" style = "float:left; width:18%">
+<p>Python</p>
 <img src = "/Images/html_icon.png" title = "HTML" alt = "HTML" style = "float:left; width:18%">
 <img src = "/Images/java_icon.png" title = "Java" alt = "Java" style = "float:left; width:18%">
 <img src = "/Images/arduino_icon.png" title = "Arduino" alt = "Java" style = "float:left; width:18%">
 <img src = "/Images/react_icon.png" title = "React" alt = "Java" style = "float:left; width:18%">
+</div>
 
 
 
