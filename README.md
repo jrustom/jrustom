@@ -19,7 +19,7 @@ I'm fueled by a deep love for problem-solving, and I see software as the key to 
   <img src = "Images/python_icon.png" title = "Python" alt = "Python" width = 5%>
   <img src = "/Images/html_icon.png" title = "HTML" alt = "HTML" width = 5%>
   <img src = "/Images/react_icon.png" title = "React" alt = "React" width = 5%>
-  <img src = "/Images/swift_icon.png" title = "Swift" alt = "Swift" width = 5%>
+  <!--<img src = "/Images/swift_icon.png" title = "Swift" alt = "Swift" width = 5%>-->
   <img src = "/Images/java_icon.png" title = "Java" alt = "Java" width = 5%>
   <img src = "/Images/arduino_icon.png" title = "Arduino" alt = "Arduino" width = 5%>
 </div>
