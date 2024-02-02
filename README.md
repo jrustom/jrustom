@@ -26,7 +26,7 @@ I'm fueled by a deep love for problem-solving, and I see software as the key to 
 <br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrustom&theme=vision-friendly-dark)](https://github.com/jrustom/github-readme-stats#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrstom)](https://github.com/jrustom/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrustom&theme=swift)](https://github.com/jrustom/github-readme-stats#gh-light-mode-only)
 
 
 
