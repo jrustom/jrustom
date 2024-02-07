@@ -1,6 +1,6 @@
 <h1>Hey 👋, I'm Jason.</h1>
 
-<b>I'm an IT Analyst Intern at Nestle Health Science and a Software Engineering student at McGill University.</b>
+<b>I'm a Software Engineering student at McGill University and an IT Analyst Intern at Nestle Health Science.</b>
 <br>
 <p>
 I'm fueled by a deep love for problem-solving, and I see software as the key to unlocking the solutions. My coding journey is a testament to my commitment to continuous learning, exploring the fascinating world where creativity meets effective programming.
