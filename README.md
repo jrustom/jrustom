@@ -1,6 +1,6 @@
 <h1>Hey 👋, I'm Jason.</h1>
 
-<b>I'm an IT Analyst Intern at Nestle Health Science and a Software Engineering student at McGill University.</b>
+<b>I'm a Software Engineering student at McGill University and an IT Analyst Intern at Nestle Health Science.</b>
 <br>
 <p>
 I'm fueled by a deep love for problem-solving, and I see software as the key to unlocking the solutions. My coding journey is a testament to my commitment to continuous learning, exploring the fascinating world where creativity meets effective programming.
@@ -19,14 +19,14 @@ I'm fueled by a deep love for problem-solving, and I see software as the key to 
   <img src = "Images/python_icon.png" title = "Python" alt = "Python" width = 5%>
   <img src = "/Images/html_icon.png" title = "HTML" alt = "HTML" width = 5%>
   <img src = "/Images/react_icon.png" title = "React" alt = "React" width = 5%>
-  <img src = "/Images/swift_icon.png" title = "Swift" alt = "Swift" width = 5%>
+  <!--<img src = "/Images/swift_icon.png" title = "Swift" alt = "Swift" width = 5%>-->
   <img src = "/Images/java_icon.png" title = "Java" alt = "Java" width = 5%>
   <img src = "/Images/arduino_icon.png" title = "Arduino" alt = "Arduino" width = 5%>
 </div>
 <br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrustom&theme=vision-friendly-dark)](https://github.com/jrustom/github-readme-stats#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrstom)](https://github.com/jrustom/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrustom&theme=swift)](https://github.com/jrustom/github-readme-stats#gh-light-mode-only)
 
 
 
