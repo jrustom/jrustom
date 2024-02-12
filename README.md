@@ -14,14 +14,14 @@ I'm fueled by a deep love for problem-solving, and I see software as the key to 
 </ul>
 
 
-<h3>Languages</h3>
+<h3>Tech Stack</h3>
 <div>
-  <img src = "Images/python_icon.png" title = "Python" alt = "Python" width = 5%>
-  <img src = "/Images/html_icon.png" title = "HTML" alt = "HTML" width = 5%>
-  <img src = "/Images/react_icon.png" title = "React" alt = "React" width = 5%>
-  <!--<img src = "/Images/swift_icon.png" title = "Swift" alt = "Swift" width = 5%>-->
-  <img src = "/Images/java_icon.png" title = "Java" alt = "Java" width = 5%>
-  <img src = "/Images/arduino_icon.png" title = "Arduino" alt = "Arduino" width = 5%>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width=5%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width=5%/>
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width=5%/>-->
 </div>
 <br>
 
