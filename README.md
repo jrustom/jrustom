@@ -1,6 +1,6 @@
 <h1>Hey 👋, I'm Jason.</h1>
 
-<b>I'm a Software Engineering student at McGill University and currently looking for an internship opportunity for summer 2025!</b>
+<b>I'm a Software Engineering student at McGill University, minoring in Applied AI.</b>
 <br>
 <p>
 I'm fueled by a deep love for problem-solving, and I see software as the key to unlocking the solutions. My coding journey is a testament to my commitment to continuous learning, exploring the fascinating world where creativity meets effective programming.
